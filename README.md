@@ -10,7 +10,8 @@ This session will enter into some more details of how to use A-Frame with only H
 We can set 3D objects in GLTF 2.0 format (as a single file, or GLB format) using the `gltf-model` component. Since GLTF file may be large, it is convenient to use a `a-assets` element to enclose the assets (in this case, the GLB file).
 
 * [Scene source code](https://github.com/jgbarah/aframe-playground/tree/master/seminar-03/basic_gltf.html)
-* [*View online DRAGO AR](basic_gltf.html)
+* [*View online DRAGO AR](basic_dino.html)
+* * [*View online DRAGO AR](basic_gltf.html)
 * [*View online Torch AR](Torch.html)
 
 There are many sources for GLTF objects. For example:
