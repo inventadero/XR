@@ -3,6 +3,7 @@
 This session will enter into some more details of how to use A-Frame with only HTML, and how to write simple A-Frame components with JavaScript.
 
 ## 3D objects in GLTF format
+[VRLand](VRLand.html)
 
 [AVATAR CIBA V(R)](https://github.com/inventadero/XR/blob/main/CIBAVatar.glb)
 
