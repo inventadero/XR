@@ -10,6 +10,7 @@ We can set 3D objects in GLTF 2.0 format (as a single file, or GLB format) using
 
 * [Scene source code](https://github.com/jgbarah/aframe-playground/tree/master/seminar-03/basic_gltf.html)
 * [*View online DRAGO AR](basic_gltf.html)
+* [*View online Torch AR](Torch.html)
 
 There are many sources for GLTF objects. For example:
 
